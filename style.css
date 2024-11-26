@@ -1,0 +1,54 @@
+body {
+	background-color: #ADD2FE;
+	font-size: 20px;
+}
+
+h1{
+	color: #f1f7fe;
+	font-family:"Poppins";
+
+}
+
+#pdp {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	object-fit: cover; 
+	margin: align;
+}
+
+#moi {
+	background-color: #f1f7fe;
+	border-radius: 10px;
+  	font-family: "Parkinsans", sans-serif;
+ 	font-optical-sizing: auto;
+  	font-weight: <weight>;
+  	font-style: normal;
+}
+
+#compet {
+	background-color: #f1f7fe;
+	border: 6px solid;
+	border-radius: 10px;
+	padding: 3px;
+	margin: 25px;
+	font-family:"Poppins";
+}
+
+#rem {
+	display: flex;
+}
+
+.card {
+	border-radius: 10px;
+	padding: 10px;
+	margin: 10px;
+	background-color:#f1f7fe;
+	font-family:"Poppins";
+	border: 6px solid;
+}
+
+#rugby {
+	border-radius: 5px;
+	width: 500px;
+}
